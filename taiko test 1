@@ -121,6 +121,7 @@ packages/protocol/config.js
 .done 
 print("hello world")
 .
-change 
-done.
+#install
+print("cls")
+
 
